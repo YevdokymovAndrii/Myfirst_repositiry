@@ -135,3 +135,4 @@ while True:
     else:
         closed_field, count_moves = make_move(count_moves, closed_field)
 print(f"Congratulations! You won the game in {count_moves} moves")
+print("You did it!!")
